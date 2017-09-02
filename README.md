@@ -1,43 +1,49 @@
 # 设计师常用的网站
 ## UI思维
-1、<a href="https://pixabay.com/" target="_blank">Pixabay</a>
+1、<a href="http://www.ui.cn/" target="_blank">Ui中国</a>
 
-海量高清图片，种类丰富
+不错的UI设计网站，可以获取灵感
 
-<img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/pixabay.JPG" width="880px" title="1.png"  alt=""/>
+<img src="https://github.com/Eaaon/Designer-net/blob/master/images/UI%E4%B8%AD%E5%9B%BD.JPG" width="880px" title="1.png"  alt=""/>
 
-2、<a href="https://unsplash.com/" target="_blank">Unsplash</a>
+2、<a href="https://www.axure.com.cn/" target="_blank">Axure</a>
 
-这是一个免费的摄影网站，以风景为主，数量足够多，照片分辨率高
+原型设计图学习
 
-<img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/unsplash.JPG" width="880px" title="2.png"  alt=""/>
+<img src="https://github.com/Eaaon/Designer-net/blob/master/images/Axure.JPG" width="880px" title="2.png"  alt=""/>
 
-3、<a href="https://www.pexels.com/" target="_blank">Pexels</a>
+3、<a href="http://www.sketchcn.com/" target="_blank">Sketch</a>
 
-首页有受欢迎的关键字排名
+介绍Sketch这款Mac设计工具
 
-<img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/pexels.JPG" width="880px" title="3.png"  alt=""/>
+<img src="https://github.com/Eaaon/Designer-net/blob/master/images/sketch.JPG" width="880px" title="3.png"  alt=""/>
 
-4、<a href="https://visualhunt.com/" target="_blank">Visualhunt</a>
+4、<a href="http://www.zcool.com.cn/" target="_blank">站酷</a>
 
-可以根据颜色进行搜索图片
+中国设计师第一网站，里面有很多创意图片，要注意版权问题
 
-<img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/visualhunt.JPG" width="880px" title="4.png"  alt=""/>
+<img src="https://github.com/Eaaon/Designer-net/blob/master/images/%E7%AB%99%E9%85%B7.png" width="880px" title="4.png"  alt=""/>
 
-5、<a href="http://www.ssyer.com/" target="_blank">Ssyer</a>
+5、<a href="http://huaban.com/" target="_blank">花瓣网</a>
 
-用户上传的旅游日常生活的图片
+国人用来收集图片的网上，里面有很多资源，也可以用来做个人的图片收藏夹，方便实用
 
-<img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/ssyer.JPG" width="880px" title="5.png"  alt=""/>
+<img src="https://github.com/Eaaon/Designer-net/blob/master/images/%E8%8A%B1%E7%93%A3.png" width="880px" title="5.png"  alt=""/>
 
-6、<a href="https://www.gratisography.com/" target="_blank">Gratisography</a>
+6、<a href="https://www.behance.net/" target="_blank">Behance</a>
 
-图片角度和题材都比较另类，人物图片不少
+最牛逼的国外的设计师分享作品的平台
 
-<img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/Gratisography.JPG" width="880px" title="6.png"  alt=""/>
+<img src="https://github.com/Eaaon/Designer-net/blob/master/images/Behance.JPG" width="880px" title="6.png"  alt=""/>
 
-7、<a href="http://pngimg.com/" target="_blank">Pngimg</a>
+7、<a href="https://dribbble.com/" target="_blank">Dribbble</a>
 
-两万多张不同种类的无背景素材图片！全都是抠好图的，直接免费用
+面向创作家、艺术工作者、设计师等创意类作品的人群
 
-<img src="https://github.com/Eaaon/Picture-material-net/blob/master/images/pngimg.JPG" width="880px" title="7.png"  alt=""/>
+<img src="https://github.com/Eaaon/Designer-net/blob/master/images/Dribbble.JPG" width="880px" title="7.png"  alt=""/>
+
+8、<a href="http://www.uehtml.com/" target="_blank">UEhtml</a>
+
+设计流程
+
+<img src="http://www.uehtml.com/" width="880px" title="8.png"  alt=""/>
