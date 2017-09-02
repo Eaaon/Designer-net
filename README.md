@@ -46,4 +46,4 @@
 
 设计流程
 
-<img src="http://www.uehtml.com/" width="880px" title="8.png"  alt=""/>
+<img src="https://github.com/Eaaon/Designer-net/blob/master/images/UEhtml.JPG" width="880px" title="8.png"  alt=""/>
