@@ -48,6 +48,12 @@
 
 <img src="https://github.com/Eaaon/Designer-net/blob/master/images/UEhtml.JPG" width="880px" title="8.png"  alt=""/>
 
+9、<a href="http://hao.uisdc.com/" target="_blank">设计师网址导航</a>
+
+设计流程
+
+<img src="https://github.com/Eaaon/Designer-net/blob/master/images/%E8%AE%BE%E8%AE%A1%E5%B8%88%E7%BD%91%E7%AB%99%E5%AF%BC%E8%88%AA.JPG" width="880px" title="9.png"  alt=""/>
+
 ## 产品思维方式
 1、<a href="http://www.woshipm.com/" target="_blank">人人都是产品经理</a>
 
